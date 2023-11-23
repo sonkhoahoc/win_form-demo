@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="702cdd5df12747ad99cf2c04d904776f" Name="Diagram1" ZoomLevel="81">
+        <EntityTypeShape EntityType="QLXMModel.Admin" Width="1.5" PointX="7.75" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXMModel.BaoHanh" Width="1.5" PointX="5.25" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXMModel.ChitietHDN" Width="1.5" PointX="5.25" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXMModel.ChitietHDX" Width="1.5" PointX="8.25" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXMModel.HoaDonNhap" Width="1.5" PointX="3" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXMModel.HoaDonXuat" Width="1.5" PointX="10" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXMModel.KhachHang" Width="1.5" PointX="3" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXMModel.Loaixe" Width="1.5" PointX="0.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXMModel.NCC" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXMModel.NhanVien" Width="1.5" PointX="7.25" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXMModel.sysdiagram" Width="1.5" PointX="19.25" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXMModel.Xe" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXMModel.solanban" Width="1.5" PointX="18.875" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXMModel.viewLichSuNhap" Width="1.5" PointX="22" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXMModel.viewLichSuXuat" Width="1.5" PointX="15.625" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXMModel.xebanchaynhat" Width="1.5" PointX="14.75" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXMModel.xetonkho" Width="1.5" PointX="21.625" PointY="9.5" IsExpanded="true" />
+        <AssociationConnector Association="QLXMModel.FK_BaoHanh_KhachHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXMModel.FK_BaoHanh_NhanVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXMModel.FK_BaoHanh_Xe" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXMModel.FK_ChitietHDN_HoaDonNhap" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXMModel.FK_ChitietHDN_Xe" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXMModel.FK_ChitietHDX_HoaDonXuat" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXMModel.FK_ChitietHDX_Xe" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXMModel.FK_HoaDonNhap_NCC" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXMModel.FK_HoaDonXuat_KhachHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXMModel.FK_HoaDonXuat_NhanVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXMModel.FK_Xe_Loaixe" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXMModel.FK_Xe_NCC" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

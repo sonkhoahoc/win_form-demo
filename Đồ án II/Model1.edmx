@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="QLXMModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'QLXM.dbo.Inhoadon' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="Inhoadon">
+          <Key>
+            <PropertyRef Name="Mã xe" />
+          </Key>
+          <Property Name="Mã xe" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Tên xe" Type="nvarchar" MaxLength="50" />
+          <Property Name="Số lượng" Type="int" />
+          <Property Name="DonGia" Type="float" />
+          <Property Name="Thành tiền" Type="float" />
+        </EntityType>
+        <EntityContainer Name="QLXMModel1StoreContainer">
+          <EntitySet Name="Inhoadon" EntityType="Self.Inhoadon" store:Type="Views" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [Inhoadon].[Mã xe] AS [Mã xe], 
+    [Inhoadon].[Tên xe] AS [Tên xe], 
+    [Inhoadon].[Số lượng] AS [Số lượng], 
+    [Inhoadon].[DonGia] AS [DonGia], 
+    [Inhoadon].[Thành tiền] AS [Thành tiền]
+    FROM [dbo].[Inhoadon] AS [Inhoadon]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="QLXMModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Inhoadon">
+          <Key>
+            <PropertyRef Name="Mã_xe" />
+          </Key>
+          <Property Name="Mã_xe" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Tên_xe" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Số_lượng" Type="Int32" />
+          <Property Name="DonGia" Type="Double" />
+          <Property Name="Thành_tiền" Type="Double" />
+        </EntityType>
+        <EntityContainer Name="QLXMEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Inhoadons" EntityType="Self.Inhoadon" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="QLXMModel1StoreContainer" CdmEntityContainer="QLXMEntities1">
+          <EntitySetMapping Name="Inhoadons">
+            <EntityTypeMapping TypeName="QLXMModel1.Inhoadon">
+              <MappingFragment StoreEntitySet="Inhoadon">
+                <ScalarProperty Name="Mã_xe" ColumnName="Mã xe" />
+                <ScalarProperty Name="Tên_xe" ColumnName="Tên xe" />
+                <ScalarProperty Name="Số_lượng" ColumnName="Số lượng" />
+                <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+                <ScalarProperty Name="Thành_tiền" ColumnName="Thành tiền" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

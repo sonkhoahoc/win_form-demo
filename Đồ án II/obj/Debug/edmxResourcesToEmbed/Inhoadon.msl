@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLXMModel1StoreContainer" CdmEntityContainer="QLXMEntities2">
+    <EntitySetMapping Name="Inhoadons">
+      <EntityTypeMapping TypeName="QLXMModel1.Inhoadon">
+        <MappingFragment StoreEntitySet="Inhoadon">
+          <ScalarProperty Name="Mã_xe" ColumnName="Mã xe" />
+          <ScalarProperty Name="Tên_xe" ColumnName="Tên xe" />
+          <ScalarProperty Name="Số_lượng" ColumnName="Số lượng" />
+          <ScalarProperty Name="Đơn_giá" ColumnName="Đơn giá" />
+          <ScalarProperty Name="Thành_tiền" ColumnName="Thành tiền" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

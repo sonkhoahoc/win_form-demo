@@ -1,0 +1,1135 @@
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\Đồ án II.exe.config
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\Đồ án II.exe
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\Đồ án II.pdb
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ án II.csproj.AssemblyReference.cache
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Properties.Resources.resources
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.RibbonForm1.resources
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ án II.csproj.GenerateResource.cache
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ án II.exe.licenses
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ án II.csproj.CoreCompileInputs.cache
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ án II.csproj.CopyComplete
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ án II.exe
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ án II.pdb
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Login.resources
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Frm_Xe.resources
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\EntityFramework.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\EntityFramework.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\Dapper.Contrib.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\Dapper.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\VBSQLHelper.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\Dapper.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\Dapper.Contrib.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Frm_NH.resources
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Frm_XH.resources
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Frm_KH.resources
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Frm_NV.resources
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Frm_NCC.resources
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Frm_BcN.resources
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Frm_BcX.resources
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Frm_TK.resources
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\EPPlus.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\EPPlus.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.InhoadonNhap.resources
+C:\Users\van\source\repos\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.InhoadonXuat.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ án II.csproj.AssemblyReference.cache
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.GUI.QuanLyBaoHanh.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Login.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Properties.Resources.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.RibbonForm1.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Frm_Xe.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Frm_NH.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Frm_XH.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Frm_KH.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Frm_NV.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.Frm_NCC.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ án II.csproj.GenerateResource.cache
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ án II.exe.licenses
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ án II.exe
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ án II.pdb
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ án II.csproj.CoreCompileInputs.cache
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\Đồ án II.exe.config
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\Đồ án II.exe
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\Đồ án II.pdb
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\CrystalDecisions.Shared.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\Dapper.Contrib.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\Dapper.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraReports.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\EntityFramework.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\EntityFramework.SqlServer.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\EPPlus.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\EPPlus.Interfaces.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\EPPlus.System.Drawing.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\VBSQLHelper.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ShockwaveFlashObjects.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Images.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\stdole.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\Dapper.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\Dapper.Contrib.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\EntityFramework.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\EntityFramework.SqlServer.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\EPPlus.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ án II.csproj.CopyComplete
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.GUI.Chitiethoadonnhap.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_phieunhaphang.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.GUI.Chitiethoadonxuat.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_Phieuxuathang.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.GUI.Xemloaixe.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.GUI.TimkiemXe.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.GUI.TimkiemTTNV.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_PhieuBaoHanh.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_thongkexebanchay.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_thongkexeton.resources
+D:\Đồ án 2\Đồ án II\Đồ án II\obj\Debug\Đồ_án_II.GUI.TimkiemTTKH.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\Đồ án II.exe.config
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\Đồ án II.exe
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\Đồ án II.pdb
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\CrystalDecisions.Shared.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\Dapper.Contrib.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\Dapper.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraReports.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\EntityFramework.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\EntityFramework.SqlServer.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\EPPlus.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\EPPlus.Interfaces.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\EPPlus.System.Drawing.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\VBSQLHelper.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ShockwaveFlashObjects.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Images.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\stdole.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\Dapper.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\Dapper.Contrib.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\EntityFramework.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\EntityFramework.SqlServer.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\EPPlus.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ án II.csproj.AssemblyReference.cache
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.GUI.Chitiethoadonnhap.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.GUI.Chitiethoadonxuat.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.GUI.QuanLyBaoHanh.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_PhieuBaoHanh.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_phieunhaphang.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_Phieuxuathang.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_thongkexebanchay.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_thongkexeton.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.GUI.TimkiemTTKH.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.GUI.TimkiemTTNV.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.GUI.TimkiemXe.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.GUI.Xemloaixe.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.Login.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.Properties.Resources.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.RibbonForm1.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.Frm_Xe.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.Frm_NH.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.Frm_XH.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.Frm_KH.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.Frm_NV.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.Frm_NCC.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ án II.csproj.GenerateResource.cache
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ án II.exe.licenses
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ án II.csproj.CoreCompileInputs.cache
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ án II.csproj.CopyComplete
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ án II.exe
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ án II.pdb
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.GUI.LichSuNhapHang.resources
+D:\Đồ án 2\Đồ án II - Copy\Đồ án II\obj\Debug\Đồ_án_II.GUI.LichSuBanHang.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\Đồ án II.exe.config
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\Đồ án II.exe
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\Đồ án II.pdb
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\Dapper.Contrib.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\Dapper.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\EntityFramework.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\EPPlus.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\VBSQLHelper.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\stdole.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\Dapper.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\Dapper.Contrib.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\EntityFramework.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\EPPlus.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ án II.csprojAssemblyReference.cache
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.GUI.Chitiethoadonnhap.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.GUI.Chitiethoadonxuat.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.GUI.LichSuBanHang.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.GUI.LichSuNhapHang.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.GUI.QuanLyBaoHanh.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_PhieuBaoHanh.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_phieunhaphang.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_Phieuxuathang.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_thongkexebanchay.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_thongkexeton.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.GUI.TimkiemTTKH.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.GUI.TimkiemTTNV.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.GUI.TimkiemXe.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.GUI.Xemloaixe.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.Login.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.Properties.Resources.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.RibbonForm1.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.Frm_Xe.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.Frm_NH.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.Frm_XH.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.Frm_KH.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.Frm_NV.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ_án_II.Frm_NCC.resources
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ án II.csproj.GenerateResource.cache
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ án II.exe.licenses
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ án II.csproj.CoreCompileInputs.cache
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ án II.csproj.CopyComplete
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ án II.exe
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\obj\Debug\Đồ án II.pdb
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Van\Desktop\Đồ án II - 10120762\Đồ án II - 10120762\Đồ án II\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\Đồ án II.exe.config
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\Đồ án II.exe
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\Đồ án II.pdb
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\Dapper.Contrib.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\Dapper.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\EntityFramework.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\EPPlus.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\VBSQLHelper.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\stdole.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\Dapper.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\Dapper.Contrib.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\EntityFramework.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\EPPlus.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.GUI.Chitiethoadonnhap.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.GUI.Chitiethoadonxuat.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.GUI.LichSuBanHang.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.GUI.LichSuNhapHang.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.GUI.QuanLyBaoHanh.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_PhieuBaoHanh.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_phieunhaphang.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_Phieuxuathang.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_thongkexebanchay.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.GUI.rp_thongkexeton.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.GUI.TimkiemTTKH.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.GUI.TimkiemTTNV.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.GUI.TimkiemXe.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.GUI.Xemloaixe.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.Login.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.Properties.Resources.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.RibbonForm1.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.Frm_Xe.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.Frm_NH.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.Frm_XH.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.Frm_KH.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.Frm_NV.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ_án_II.Frm_NCC.resources
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ án II.csproj.GenerateResource.cache
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ án II.exe.licenses
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ án II.csproj.CoreCompileInputs.cache
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ án II.csproj.CopyComplete
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ án II.exe
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ án II.pdb
+C:\Users\Van\Desktop\My-project\Đồ án II\obj\Debug\Đồ án II.csprojAssemblyReference.cache
